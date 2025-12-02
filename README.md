@@ -1,4 +1,4 @@
 # NovaEquity Enabler
 
 Welcome to the `NovaEquity` Horizontal Enabler.
-Social auditing, proof of fairness and social impact.
+Social audit engine tracking fair wages and labor rights.
